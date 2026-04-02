@@ -3,13 +3,16 @@
 
 ## 🌙 About Me
 
-> | | | |
-> |:--|:-:|:--|
-> | <samp>🚀 <b>Learning</b></samp> | <samp>➜</samp> | <samp>Generative AI (GenAI)</samp> |
-> | <samp>🤝 <b>Collaborating On</b></samp> | <samp>➜</samp> | <samp>Full-Stack Projects</samp> |
-> | <samp>🛠️ <b>Need Help With</b></samp> | <samp>➜</samp> | <samp>DevOps</samp> |
-> | <samp>🏆 <b>Ask Me About</b></samp> | <samp>➜</samp> | <samp>Competitive Programming</samp> |
-> | <samp>📧 <b>Contact</b></samp> | <samp>➜</samp> | <samp>sutanuj11@gmail.com</samp> |
+> <samp>🚀 <b>Learning</b> — Generative AI (GenAI)
+> 
+> 🤝 <b>Collaborating On</b> — Full-Stack Projects
+> 
+> 🛠️ <b>Need Help With</b> — DevOps
+> 
+> 🏆 <b>Ask Me About</b> — Competitive Programming
+> 
+> 📧 <b>Contact</b> — sutanuj11@gmail.com</samp>
+
 
 
 ## ✦ Socials
