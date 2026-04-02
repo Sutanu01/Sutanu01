@@ -3,7 +3,7 @@
 
 ## 🌙 About Me
 
-<table><tr><td bgcolor="#0d1117">
+<table><tr><td bgcolor="#0d1117" width="50%">
 <br>
 
 🚀 **Learning** — Generative AI (GenAI)
@@ -17,7 +17,13 @@
 📧 **Contact** — [sutanuj11@gmail.com](mailto:sutanuj11@gmail.com)
 
 <br>
+</td>
+<td bgcolor="#0d1117" width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sutanu01&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
 </td></tr></table>
+
 
 
 
