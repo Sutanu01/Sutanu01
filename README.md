@@ -3,15 +3,13 @@
 
 ## 🌙 About Me
 
-> <samp>🚀 <b>Learning</b> — Generative AI (GenAI)
-> 
-> 🤝 <b>Collaborating On</b> — Full-Stack Projects
-> 
-> 🛠️ <b>Need Help With</b> — DevOps
-> 
-> 🏆 <b>Ask Me About</b> — Competitive Programming
-> 
-> 📧 <b>Contact</b> — sutanuj11@gmail.com</samp>
+```
+ 🚀  Learning            ─  Generative AI (GenAI)
+ 🤝  Collaborating On    ─  Full-Stack Projects
+ 🛠️  Need Help With      ─  DevOps
+ 🏆  Ask Me About        ─  Competitive Programming
+ 📧  Contact             ─  sutanuj11@gmail.com
+```
 
 
 
