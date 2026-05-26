@@ -1,20 +1,20 @@
 <h1>Hi 👋, I'm Sutanu Jana</h1>
-<h3>A passionate Full Stack developer from India</h3>
+<img src="https://img.shields.io/badge/Software%20Developer-1a2230?style=for-the-badge&logoColor=white" alt="Software Developer" height="32" style="vertical-align: middle;" /> <img src="https://img.shields.io/badge/India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="India" height="32" style="vertical-align: middle;" />
 
 ## 🌙 About Me
 
 <table><tr><td bgcolor="#0d1117" width="50%">
 <br>
 
-🚀 **Learning** — Generative AI (GenAI)
+&#9678; **Learning** — Generative AI (GenAI)
 
-🤝 **Collaborating On** — Full-Stack Projects
+&#9678; **Collaborating On** — Full-Stack Projects
 
-🛠️ **Need Help With** — DevOps
+&#9678; **Need Help With** — DevOps
 
-🏆 **Ask Me About** — Competitive Programming
+&#9678; **Ask Me About** — Competitive Programming
 
-📧 **Contact** — [sutanuj11@gmail.com](mailto:sutanuj11@gmail.com)
+&#9678; **Contact** — [sutanuj11@gmail.com](mailto:sutanuj11@gmail.com)
 
 <br>
 </td>
