@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm Sutanu Jana</h1>
-<img src="https://img.shields.io/badge/Software%20Developer-1a2230?style=for-the-badge&logoColor=white" alt="Software Developer" height="32" style="vertical-align: middle;" /> <img src="https://img.shields.io/badge/India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="India" height="32" style="vertical-align: middle;" />
+<p>
+	<img src="https://img.shields.io/badge/Software%20Developer-1a2230?style=for-the-badge&logoColor=white" alt="Software Developer" height="36" />&nbsp;
+	<img src="https://img.shields.io/badge/India-1e1535?style=for-the-badge&logo=googlemaps&logoColor=white" alt="India" height="36" />
+</p>
 
 ## 🌙 About Me
 
