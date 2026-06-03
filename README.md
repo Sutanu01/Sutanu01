@@ -23,7 +23,7 @@
 </td>
 <td bgcolor="#0d1117" width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sutanu01&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="495" height="195" loading="lazy" decoding="async" style="background: #0d1117; border-radius: 10px;" />
+<img src="https://streak-stats.demolab.com/?user=Sutanu01&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="495" height="195" loading="lazy" decoding="async" style="background: #0d1117; border-radius: 10px;" />
 
 </td></tr></table>
 
