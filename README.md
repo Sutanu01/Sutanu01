@@ -23,7 +23,7 @@
 </td>
 <td bgcolor="#0d1117" width="50%" align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-chi-lovat.vercel.app/?user=Sutanu01&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats-chi-lovat.vercel.app/?user=Sutanu01&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="495" height="195" loading="lazy" decoding="async" style="background: #0d1117; border-radius: 10px;" />
 
 </td></tr></table>
 
