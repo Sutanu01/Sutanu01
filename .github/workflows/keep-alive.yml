@@ -1,0 +1,15 @@
+name: Keep Vercel Streak App Warm
+
+on:
+  schedule:
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
+  # Allows you to run this manually from the Actions tab if needed
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Streak URL to prevent cold start
+        run: curl -s "https://github-readme-streak-stats-chi-lovat.vercel.app/?user=Sutanu01&theme=tokyonight&hide_border=true&background=0d1117" > /dev/null
